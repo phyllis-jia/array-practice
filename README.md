@@ -1,3 +1,3 @@
 # array practice
  
-There is code for 9 questions
+There are codes for several questions
